@@ -1,0 +1,8 @@
+{
+  "feature": "subwild:wet_liquid_cave_deco",
+  "placement": [
+    {
+      "type": "subwild:liquid_cave"
+    }
+  ]
+}

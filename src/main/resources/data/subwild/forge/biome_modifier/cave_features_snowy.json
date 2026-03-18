@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#forge:is_snowy",
+  "features": [
+    "subwild:icy_cave_deco"
+  ],
+  "step": "underground_decoration"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_badlands",
+  "features": [
+    "subwild:mesa_cave_deco"
+  ],
+  "step": "underground_decoration"
+}

@@ -1,0 +1,8 @@
+{
+  "feature": "subwild:desert_cave_deco",
+  "placement": [
+    {
+      "type": "subwild:cave"
+    }
+  ]
+}

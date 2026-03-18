@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_jungle",
+  "features": [
+    "subwild:jungle_cave_deco"
+  ],
+  "step": "underground_decoration"
+}

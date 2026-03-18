@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_ocean",
+  "features": [
+    "subwild:wet_air_cave_deco",
+    "subwild:wet_liquid_cave_deco"
+  ],
+  "step": "underground_decoration"
+}

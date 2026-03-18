@@ -1,0 +1,8 @@
+{
+  "feature": "subwild:rocky_cave_deco",
+  "placement": [
+    {
+      "type": "subwild:cave"
+    }
+  ]
+}

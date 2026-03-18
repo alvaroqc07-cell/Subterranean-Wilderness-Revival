@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#forge:is_dry/overworld",
+  "features": [
+    "subwild:desert_cave_deco"
+  ],
+  "step": "underground_decoration"
+}

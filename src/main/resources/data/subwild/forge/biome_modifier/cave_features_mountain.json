@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#forge:is_mountain",
+  "features": [
+    "subwild:extreme_hills_cave_deco"
+  ],
+  "step": "underground_decoration"
+}

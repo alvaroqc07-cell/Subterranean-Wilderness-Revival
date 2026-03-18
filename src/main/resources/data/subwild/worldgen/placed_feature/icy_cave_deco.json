@@ -1,0 +1,8 @@
+{
+  "feature": "subwild:icy_cave_deco",
+  "placement": [
+    {
+      "type": "subwild:cave"
+    }
+  ]
+}
